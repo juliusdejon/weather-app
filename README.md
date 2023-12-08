@@ -17,14 +17,8 @@ Showcasing what I learned about building Android Application
 - Navigating to the Weather History Report
 
 ## Screenshots
-![tokyo](./tokyo.png)
 
-![weather-screen](./weather-screen.png)
-
-![weather-screen](./going-to-weather-history.png)
-
-![weather-history](./weather-history.png)
-
-
-![weather-history-plain](./weather-history-plain.png)
-
+<div style='display: flex'>
+<img src='./tokyo.png' alt='tokyo' width='300' />
+<img src='./weather-history-plain.png' alt='weather-history-plain' width='300' />
+</div>

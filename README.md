@@ -2,7 +2,7 @@
 
 Showcasing what I learned about building Android Application    
 
-## How it is made
+## How is it made
 - android jetpack app architectured
 - uses third party API to fetch weather (https://www.visualcrossing.com/) using Retrofit and Mushi
 - uses Recycler view to display
